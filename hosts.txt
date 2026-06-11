@@ -1,0 +1,12 @@
+# Remote Lock Tool — Host List
+# One entry per line. Supported formats:
+#   192.168.1.10
+#   hostname.local
+#   user@192.168.1.20        (overrides SSH_USERNAME in config.py)
+#   user@hostname.local
+
+# --- Example entries (replace with your actual hosts) ---
+# 192.168.1.10
+# 192.168.1.11
+# alice@192.168.1.12
+# workstation-01.corp.local
